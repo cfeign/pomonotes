@@ -41,15 +41,6 @@ body {
       color: #333;
     }
 
-    .session-header {
-      margin-top: 20px;
-    }
-
-    .session-header h2 {
-      text-align: center;
-      color: #333;
-    }
-
     .note-card {
       border: 1px solid #e0e0e0;
       border-radius: 8px;
